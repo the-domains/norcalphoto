@@ -1,6 +1,7 @@
 name: norcalphoto
 favicon: null
 layout_spectrum: 0.00714
+typography_spectrum: 0.32725
 cta:
   domain: null
   bucket: null
