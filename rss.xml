@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[norcalphoto]]></title>
+        <description><![CDATA[norcalphoto]]></description>
+        <link>https://thegrid.ai/norcalphoto/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 11 Oct 2015 13:57:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/norcalphoto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/norcalphoto/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">a035b91a-75c2-4ae1-b0b6-09a815a94514</guid>
+            <pubDate>Sat, 10 Oct 2015 18:10:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
